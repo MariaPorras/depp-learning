@@ -1,1 +1,1 @@
-# depp-learning
+# deep-learning
